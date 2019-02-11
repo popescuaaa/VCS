@@ -1,0 +1,4 @@
+Starting audit...
+[ERROR] /home/popescu-andrei/Desktop/tema2/utils/Context.java:67:59: Must have at least one statement. [EmptyBlock]
+Audit done.
+Checkstyle ends with 1 errors.
